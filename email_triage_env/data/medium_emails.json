@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "subject": "Meeting tomorrow",
+    "body": "Can we schedule a meeting?",
+    "sender": "boss@test.com",
+    "urgency": "medium",
+    "category": "internal"
+  },
+  {
+    "id": "2",
+    "subject": "Refund needed",
+    "body": "My product is broken, I want refund",
+    "sender": "customer@test.com",
+    "urgency": "high",
+    "category": "customer_support"
+  },
+  {
+    "id": "3",
+    "subject": "Win a free iPhone",
+    "body": "Click here to claim reward",
+    "sender": "spam@test.com",
+    "urgency": "low",
+    "category": "spam"
+  }
+]

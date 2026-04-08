@@ -1,0 +1,10 @@
+[
+  {
+    "id": "1",
+    "subject": "Very disappointed",
+    "body": "I have emailed 3 times and still no refund. This is frustrating.",
+    "sender": "angry@test.com",
+    "urgency": "high",
+    "category": "customer_support"
+  }
+]
